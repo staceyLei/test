@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-console.log('hhhh--what3');
+console.log('hhhh--what34');
 
 process.exit(0);
