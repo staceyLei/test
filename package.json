@@ -3,10 +3,12 @@
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commitizen": "git-cz",
-    "release": "release-it"
+    "release": "release-it",
+    "release-test": "release-it-test"
   },
   "author": "",
   "license": "ISC",
